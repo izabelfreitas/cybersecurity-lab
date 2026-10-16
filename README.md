@@ -12,12 +12,6 @@ e práticas de Blue Team.
 Construir um ambiente virtualizado e controlado para estudar conceitos
 de segurança da informação através de atividades práticas.
 
-## 🖥️ Ambiente atual
-
-| Tecnologia | Utilização |
-|---|---|
-| VirtualBox | Virtualização do laboratório |
-| Ubuntu Linux | Primeira máquina virtual do ambiente |
 
 ## 🧪 Labs
 
