@@ -3,8 +3,8 @@
 Laboratório pessoal criado para desenvolver e documentar conhecimentos
 práticos em Cibersegurança.
 
-O projeto será construído progressivamente, começando pelos fundamentos
-de Linux e redes até chegar à análise de vulnerabilidades, monitoramento
+O projeto será construído progressivamente, começando pelos fundamentos 
+até chegar à análise de vulnerabilidades, monitoramento
 e práticas de Blue Team.
 
 ## 🎯 Objetivo
