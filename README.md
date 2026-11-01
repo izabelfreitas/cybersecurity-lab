@@ -1,46 +1,65 @@
 # 🔐 Cybersecurity Lab
 
-Laboratório pessoal criado para desenvolver e documentar conhecimentos
-práticos em Cibersegurança.
+Laboratório pessoal de estudos em Cibersegurança, criado para consolidar conhecimentos em redes, sistemas operacionais e segurança da informação por meio de estudos, simulações e atividades práticas em ambientes controlados.
 
-O projeto será construído progressivamente, começando pelos fundamentos 
-até chegar à análise de vulnerabilidades, monitoramento
-e práticas de Blue Team.
+O repositório documenta minha evolução técnica, desde os fundamentos de infraestrutura até conceitos e práticas de segurança cibernética.
 
 ## 🎯 Objetivo
 
-Construir um ambiente virtualizado e controlado para estudar conceitos
-de segurança da informação através de atividades práticas.
+Desenvolver uma base sólida em Cibersegurança, relacionando conceitos teóricos com exercícios práticos, documentando aprendizados, ferramentas utilizadas e resultados obtidos.
 
+## 🧪 Trilha de estudos
 
-## 🧪 Labs
+### 01 — Network Fundamentals
+<text>**Status: Em andamento**</text>
 
-### Lab 01 — Linux Fundamentals
-🔄 Em desenvolvimento
+Estudo dos fundamentos de redes de computadores, com foco em:
+- Modelo OSI e arquitetura TCP/IP
+- Endereçamento IPv4
+- Máscaras de sub-rede e subnetting
+- Gateway padrão
+- DNS e DHCP
+- Protocolos e portas de comunicação
+- Fundamentos de infraestrutura de redes
 
-Fundamentos de Linux aplicados à segurança.
+**Formação:** Cisco Networking Academy  
+**Ferramenta de simulação:** Cisco Packet Tracer
 
-### Lab 02 — Network Fundamentals
-⏳ Planejado
+### 02 — Linux Fundamentals
+<text>**Status: Em desenvolvimento**</text>
 
-Estudo de redes, protocolos, portas e comunicação entre máquinas.
+Fundamentos do sistema operacional Linux em ambiente Ubuntu virtualizado:
+- Estrutura de diretórios
+- Navegação pelo terminal
+- Comandos básicos
+- Usuários e permissões
+- Processos e serviços
+- Fundamentos de administração do sistema
 
-### Lab 03 — Network Analysis
-⏳ Planejado
+**Ambiente:** Ubuntu em máquina virtual com VirtualBox
 
-Captura e análise de tráfego de rede.
+### 03 — Network Traffic Analysis
+<text>**Status: Planejado**</text>
 
-### Lab 04 — Vulnerability Analysis
-⏳ Planejado
+### 04 — Vulnerability Analysis
+<text>**Status: Planejado**</text>
 
-Identificação e análise de vulnerabilidades em ambiente controlado.
+### 05 — Blue Team Fundamentals
+<text>**Status: Planejado**</text>
 
-### Lab 05 — Blue Team
-⏳ Planejado
+## 📌 Metodologia
 
-Monitoramento, análise de logs e investigação de eventos de segurança.
+Cada atividade será documentada com:
+- Objetivo do estudo ou exercício
+- Conceitos técnicos envolvidos
+- Ferramentas utilizadas
+- Procedimentos realizados
+- Resultados e aprendizados
+
+## 🔒 Ambiente e responsabilidade
+
+As atividades práticas de segurança serão realizadas exclusivamente em ambientes próprios, simulados ou autorizados, com finalidade educacional.
 
 ---
 
-> ⚠️ Todos os testes deste repositório serão realizados em ambientes
-> próprios e controlados exclusivamente para fins educacionais.
+**Este repositório representa uma jornada de aprendizado contínuo em Cibersegurança.**
